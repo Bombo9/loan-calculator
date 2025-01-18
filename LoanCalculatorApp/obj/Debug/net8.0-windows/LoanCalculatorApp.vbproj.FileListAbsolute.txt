@@ -1,0 +1,16 @@
+C:\Users\Festus Matsitsa\OneDrive\Desktop\work\LoanCalculatorApp\LoanCalculatorApp\obj\Debug\net8.0-windows\LoanCalculatorApp.Form1.resources
+C:\Users\Festus Matsitsa\OneDrive\Desktop\work\LoanCalculatorApp\LoanCalculatorApp\obj\Debug\net8.0-windows\LoanCalculatorApp.vbproj.GenerateResource.cache
+C:\Users\Festus Matsitsa\OneDrive\Desktop\work\LoanCalculatorApp\LoanCalculatorApp\obj\Debug\net8.0-windows\LoanCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Festus Matsitsa\OneDrive\Desktop\work\LoanCalculatorApp\LoanCalculatorApp\obj\Debug\net8.0-windows\LoanCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\Festus Matsitsa\OneDrive\Desktop\work\LoanCalculatorApp\LoanCalculatorApp\obj\Debug\net8.0-windows\LoanCalculatorApp.AssemblyInfo.vb
+C:\Users\Festus Matsitsa\OneDrive\Desktop\work\LoanCalculatorApp\LoanCalculatorApp\obj\Debug\net8.0-windows\LoanCalculatorApp.vbproj.CoreCompileInputs.cache
+C:\Users\Festus Matsitsa\OneDrive\Desktop\work\LoanCalculatorApp\LoanCalculatorApp\bin\Debug\net8.0-windows\LoanCalculatorApp.exe
+C:\Users\Festus Matsitsa\OneDrive\Desktop\work\LoanCalculatorApp\LoanCalculatorApp\bin\Debug\net8.0-windows\LoanCalculatorApp.deps.json
+C:\Users\Festus Matsitsa\OneDrive\Desktop\work\LoanCalculatorApp\LoanCalculatorApp\bin\Debug\net8.0-windows\LoanCalculatorApp.runtimeconfig.json
+C:\Users\Festus Matsitsa\OneDrive\Desktop\work\LoanCalculatorApp\LoanCalculatorApp\bin\Debug\net8.0-windows\LoanCalculatorApp.dll
+C:\Users\Festus Matsitsa\OneDrive\Desktop\work\LoanCalculatorApp\LoanCalculatorApp\bin\Debug\net8.0-windows\LoanCalculatorApp.pdb
+C:\Users\Festus Matsitsa\OneDrive\Desktop\work\LoanCalculatorApp\LoanCalculatorApp\obj\Debug\net8.0-windows\LoanCalculatorApp.dll
+C:\Users\Festus Matsitsa\OneDrive\Desktop\work\LoanCalculatorApp\LoanCalculatorApp\obj\Debug\net8.0-windows\refint\LoanCalculatorApp.dll
+C:\Users\Festus Matsitsa\OneDrive\Desktop\work\LoanCalculatorApp\LoanCalculatorApp\obj\Debug\net8.0-windows\LoanCalculatorApp.pdb
+C:\Users\Festus Matsitsa\OneDrive\Desktop\work\LoanCalculatorApp\LoanCalculatorApp\obj\Debug\net8.0-windows\LoanCalculatorApp.genruntimeconfig.cache
+C:\Users\Festus Matsitsa\OneDrive\Desktop\work\LoanCalculatorApp\LoanCalculatorApp\obj\Debug\net8.0-windows\ref\LoanCalculatorApp.dll

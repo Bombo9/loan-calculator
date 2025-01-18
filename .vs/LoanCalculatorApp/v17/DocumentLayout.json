@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Festus Matsitsa\\OneDrive\\Desktop\\work\\LoanCalculatorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A30BBE0-54E1-44B5-A40D-52D01FD1E18D}|LoanCalculatorApp\\LoanCalculatorApp.vbproj|c:\\users\\festus matsitsa\\onedrive\\desktop\\work\\loancalculatorapp\\loancalculatorapp\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8A30BBE0-54E1-44B5-A40D-52D01FD1E18D}|LoanCalculatorApp\\LoanCalculatorApp.vbproj|solutionrelative:loancalculatorapp\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A30BBE0-54E1-44B5-A40D-52D01FD1E18D}|LoanCalculatorApp\\LoanCalculatorApp.vbproj|c:\\users\\festus matsitsa\\onedrive\\desktop\\work\\loancalculatorapp\\loancalculatorapp\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8A30BBE0-54E1-44B5-A40D-52D01FD1E18D}|LoanCalculatorApp\\LoanCalculatorApp.vbproj|solutionrelative:loancalculatorapp\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Festus Matsitsa\\OneDrive\\Desktop\\work\\LoanCalculatorApp\\LoanCalculatorApp\\Form1.vb",
+              "RelativeDocumentMoniker": "LoanCalculatorApp\\Form1.vb",
+              "ToolTip": "C:\\Users\\Festus Matsitsa\\OneDrive\\Desktop\\work\\LoanCalculatorApp\\LoanCalculatorApp\\Form1.vb",
+              "RelativeToolTip": "LoanCalculatorApp\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-15T15:02:34.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Festus Matsitsa\\OneDrive\\Desktop\\work\\LoanCalculatorApp\\LoanCalculatorApp\\Form1.vb",
+              "RelativeDocumentMoniker": "LoanCalculatorApp\\Form1.vb",
+              "ToolTip": "C:\\Users\\Festus Matsitsa\\OneDrive\\Desktop\\work\\LoanCalculatorApp\\LoanCalculatorApp\\Form1.vb [Design]",
+              "RelativeToolTip": "LoanCalculatorApp\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-15T13:59:13.565Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
